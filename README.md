@@ -109,3 +109,5 @@ MIT
 
 vies-check is extracted from [getpylaunch](https://getpylaunch.com), a FastAPI starter kit for
 paid SaaS, where it handles EU VAT for Stripe billing.
+
+Black Friday: the kit is 60% off until 1 December.
